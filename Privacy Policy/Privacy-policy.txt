@@ -1,0 +1,21 @@
+Effective Date: 15 July 2024
+
+This privacy policy explains how we collect, use, and protect your information when you use our Chrome extension.
+
+Information We Collect:
+We collect information about your browser tabs to manage and organize them effectively. Data is collected through Chrome API calls within the extension. The data is necessary for the extension's functionality, such as tab management and organization.
+
+Use of Information
+How We Use Your Information: We use the collected data to display and manage your browser tabs within the extension. Third-Party Services: No third-party services are used for data collection through the extension.
+
+Data Sharing
+Sharing Practices: We do not share collected data with any third parties. Legal Disclosure: We may disclose information if required by law or to protect our rights.
+
+User Rights
+Access and Control: Users can manage their browser tabs directly through the extension. Opt-Out: There is no opt-out option as the extension requires access to browser tabs for functionality.
+
+Security Measures
+Data Security: We implement measures to protect user data, including encryption and secure storage. Data Breach: In the event of a data breach, affected users will be notified as required by law.
+
+Contact Us
+Contact Information: For questions or concerns about this privacy policy, please contact us at harshitavsachdev@gmail.com.
